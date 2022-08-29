@@ -8,12 +8,12 @@ const Footer = () => {
             alt="React Bricks"
             className="w-8"
           />
-          <div className="uppercase text-sm tracking-wider">Next.js website starter</div>
+          <div className="uppercase text-sm tracking-wider">Next.js</div>
         </div>
         <div className="text-gray-500 text-sm">
-          © {new Date().getFullYear()}{' '}
+          © {new Date().getFullYear()}{' Marcin Mukosiej '}
           <a href="https://reactbricks.com" className="hover:text-pink-600">
-            React Bricks
+            powered with React Bricks
           </a>
         </div>
       </div>
