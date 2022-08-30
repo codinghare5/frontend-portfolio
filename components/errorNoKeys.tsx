@@ -1,4 +1,4 @@
-const ErrorNoKeys = () => {
+const ErrorNoKeys: React.FC = () => {
   return (
     <div className="max-w-5xl mx-auto px-6 py-20 text-gray-600">
       <h1 className="text-2xl text-red-600 font-semibold mb-8">
